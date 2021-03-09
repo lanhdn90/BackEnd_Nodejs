@@ -1,0 +1,31 @@
+{
+    {"icon":  'fa fa-home fa-fw', "textMenu":'Tra"textMenu":g chủ', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc1"},
+    {"icon":  'fas fa-school fa-fw', "textMenu":'Quản lý Nhà trường', "link": '/School/Index/', "roleId":"6045cf1c83a38015cc63ccc1"},
+     {"icon": 'fas fa-building fa-fw', "textMenu":'Quản lý Công ty', "link": '/Company/Index/', "roleId":"6045cf1c83a38015cc63ccc1"},
+     {"icon": 'fas fa-link fa-fw', "textMenu":'Báo cáo thống kê', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc1"},
+     {"icon": 'fa fa-home fa-fw', "textMenu":'Trang chủ', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc2"},
+    {"icon": 'fas fa-building fa-fw', "textMenu":'Thông tin Công ty', "link": '/Company/Edit/', "roleId":"6045cf1c83a38015cc63ccc2"},
+     {"icon": 'fas fa-address-card fa-fw', "textMenu":'Hướng dẫn viên', "link": '/Leader/Index', "roleId":"6045cf1c83a38015cc63ccc2"},
+     {"icon": 'fa fa-clipboard fa-fw', "textMenu":'Quản lý Khóa học', "link": '/InternShip/Index/0', "roleId":"6045cf1c83a38015cc63ccc2"},
+     {"icon": 'fa fa-book fa-fw', "textMenu":'Quản lý Bài học', "link": '/Tasks/Index', "roleId":"6045cf1c83a38015cc63ccc2"},
+     {"icon": 'fas fa-question-circle fa-fw', "textMenu":'Quản lý Câu hỏi', "link": '/Question/Index', "roleId":"6045cf1c83a38015cc63ccc2"},
+     {"icon": 'fa fa-graduation-cap fa-fw', "textMenu":'Quản lý Thực tập sinh', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc2"},
+     {"icon": 'fa fa-home fa-fw', "textMenu":'Trang chủ', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc5"},
+     {"icon": 'fa fa-graduation-cap fa-fw', "textMenu":'Quản lý Thực tập sinh', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc5"},
+   
+     {"icon": 'fa fa-home fa-fw', "textMenu":'Trang chủ', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc3"},
+     {"icon": 'fa fa-clipboard fa-fw', "textMenu":'Quản lý Khóa học', "link": '/InternShip/Index/0', "roleId":"6045cf1c83a38015cc63ccc3"},
+     {"icon": 'fa fa-book fa-fw', "textMenu":'Quản lý Bài học', "link": '/Tasks/Index', "roleId":"6045cf1c83a38015cc63ccc3"},
+     {"icon": 'fas fa-question-circle fa-fw', "textMenu":'Quản lý Câu hỏi', "link": '/Question/Index', "roleId":"6045cf1c83a38015cc63ccc3"},
+     {"icon": 'fa fa-graduation-cap fa-fw', "textMenu":'Quản lý Thực tập sinh', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc3"},
+   
+      {"icon": 'fa fa-home fa-fw', "textMenu":'Trang chủ', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc6"},
+     {"icon": 'fas fa-book-reader fa-fw', "textMenu":'Khóa học', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc6"},
+     {"icon": 'fas fa-tasks fa-fw', "textMenu":'Kết quả Kiểm tra', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc6"},
+   
+      {"icon": 'fa fa-home fa-fw', "textMenu":'Trang chủ', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc4"},
+      {"icon": 'fas fa-university fa-fw', "textMenu":'Quản lý Khoa', "link": '/Faculty/Index', "roleId":"6045cf1c83a38015cc63ccc4"},
+     {"icon": 'fas fa-address-card fa-fw', "textMenu":'Giáo vụ', "link": '/Representative/Index', "roleId":"6045cf1c83a38015cc63ccc4"},
+      {"icon": 'fa fa-graduation-cap fa-fw', "textMenu":'Quản lý Thực tập sinh', "link": '/Home/Index/', "roleId":"6045cf1c83a38015cc63ccc4"},
+     {"icon": 'fas fa-school fa-fw', "textMenu":'Thông tin Nhà trường', "link": '/School/Edit/', "roleId":"6045cf1c83a38015cc63ccc4"},
+   }
